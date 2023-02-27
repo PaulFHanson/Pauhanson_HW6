@@ -10,3 +10,12 @@ h4 {color: #0776c6;}
 p {color: #0776c6;}
 li {color: #0776c6;}
 table {color: #0776c6;}
+header {color: #0776c6;}
+h4 {
+    border : 1px solid #555;
+}
+nav {
+    border : 1px solid #555;
+}
+
+
