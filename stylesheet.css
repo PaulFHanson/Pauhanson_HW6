@@ -1,10 +1,12 @@
-
+.wrapper { background-color: powderblue;}
 body { background-color: whitesmoke;}
 table, th, td {
     border: 1px solid;
   }
-h1 {color: #0776c6;}
-h2 {color: #0776c6;}
+h1 {color: #0776c6;
+    text-align: center;}
+h2 {color: #0776c6;
+    text-align: center;}
 h3 {color: #0776c6;}
 h4 {color: #0776c6;}
 p {color: #0776c6;}
